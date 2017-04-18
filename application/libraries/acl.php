@@ -36,7 +36,10 @@ class Acl {
 			
 		/* Get the vars from ci_session */
 		$uid = $this->_CI->session->userdata('uid');
-		$user_roles = $this->_CI->session->userdata('roles');
+		$user_roles = $this->_CI->session->userdata('roles');cvxcvxcxvcxcvx
+			xcvxc
+			vxc
+			xc
 
 		/* Shouldn't happen but if we stick to belt and braces we should be OK */
 		if ( ! $uid OR ! $user_roles)
